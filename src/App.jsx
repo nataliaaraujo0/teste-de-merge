@@ -7,7 +7,7 @@ function App() {
 
   return (
     <div className="App">
-      <p>estou na main</p>
+      <h1>DEVTEST : teste de merge 2</h1>
     </div>
   );
 }
